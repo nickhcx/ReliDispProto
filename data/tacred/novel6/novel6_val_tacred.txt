@@ -1,0 +1,5 @@
+37	19 38 24 21 13 27 31 30 7 20 37	the latest abu sayyaf hostage crisis drew to a close with vagni 's flight to manila , where he was reunited with his thai wife and daughter , hugging and kissing them .	vagni	11	his	22	HHH	TTT
+38	25 9 3 37 32 6 31 27 30 29 38	linares said that until tuesday 's operation , no arrests had been made in his close circle in over a decade .	his	14	linares	0	Q192711	Q991413
+39	19 32 10 8 18 37 41 34 4 7 39	grace burgess , a spokeswoman for the new york city medical examiner 's office , said the office on tuesday ruled cerniglia 's death a suicide .	cerniglia	21	new york city	7 8 9	HHH	TTT
+40	29 39 24 6 4 20 2 10 8 14	irene morgan kirkaldy , whose defiance of bus segregation laws more than a decade before rosa parks ' landmark case helped lay the foundation for later civil rights victories , died friday at her home in hayes , va. .	irene morgan kirkaldy	0 1 2	va.	38	HHH	TTT
+41	20 7 8 35 14 31 38 5 21 3 41	`` there 's slight improvement but in a fundamental way , they still do n't get it , '' said nell minow , co-founder of the corporate library .	corporate library	26 27	nell minow	20 21	HHH	TTT
